@@ -1,0 +1,9 @@
+content_type: "application/json; v=1.0"
+create_books:
+    body: "{\"id\":0,\"title\":\"string\",\"description\":\"string\",\"pageCount\":0,\"excerpt\":\"string\"}"
+
+code:
+    ok: '200'
+    created: '201'
+    bad_request: '400'
+    internal_server_error: '500'

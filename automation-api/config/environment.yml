@@ -1,0 +1,2 @@
+environment:
+  url: 'https://fakerestapi.azurewebsites.net/'

@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem 'cucumber'
+gem 'rspec'
+gem 'reportbuilder'
+gem 'pry'
+gem 'cuke_linter'
+gem 'faker'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter'
+gem 'rubocop-performance'
